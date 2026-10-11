@@ -1,0 +1,9 @@
+node_modules/
+.encore/
+.env
+.env.*
+.DS_Store
+DerivedData/
+build/
+*.xcuserdata/
+*.xcworkspace/xcuserdata/
